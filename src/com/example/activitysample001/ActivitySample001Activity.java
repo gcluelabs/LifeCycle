@@ -1,4 +1,4 @@
-package com.gclue.ActivitySample001;
+package com.example.activitysample001;
 
 import android.app.Activity;
 import android.os.Bundle;
